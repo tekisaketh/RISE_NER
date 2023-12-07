@@ -40,4 +40,5 @@ This can make it easier for Model B to learn the relationships between the tags 
 Overall, based on the results - Model B is a better model for NER tasks than Model A. 
 This is likely due to the fact that Model B is trained on a smaller, more focused dataset, which helps to prevent overfitting and improve performance.
 
-Requirements: I've used google collab and levaraged A100 & V100 GPUs based on availability to train the RoBERTa based pre-trained models.
+Requirements: python pip modules are present in the notebook itself to install.
+I've used google collab and levaraged A100 & V100 GPUs based on availability to train the RoBERTa based pre-trained models.
