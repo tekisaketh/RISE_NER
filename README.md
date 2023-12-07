@@ -5,7 +5,9 @@
 The task is to train a model (A) on MultiNERD dataset with all the tags available and another model (B) with few of the tags and then compare them using metrics.
 
 More details about the models can be found on Hugging Face website:
+
 Model A - https://huggingface.co/Saketh/entity-recognition-general-sota-v1-finetuned-ner
+
 Model B - https://huggingface.co/Saketh/entity-recognition-general-sota-v1-finetuned-ner-X
 
 Analysis:
